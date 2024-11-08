@@ -1,0 +1,12 @@
+{
+    "display_name": "The Handy Extension",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Anonymous",
+    "version": "1.0.0",
+    "homePage": "http://yourhomepage.com",
+    "auto_update": false
+}
